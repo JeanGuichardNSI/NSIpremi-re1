@@ -67,8 +67,8 @@ voici une checkbox<INPUT type="checkbox" name="choix1" value="1">
 
 <p>div est une balise de type "block"</p>
 <p>la balise est une autre balise de type block</p>
-<p>En revanche, span est une balise de type "inline" <a href="ww.w3schools.com” target="_blank">Et voici une uatre type de balise "inline"</a></p>
+<p>En revanche, span est une balise de type "inline" <a href="ww.w3schools.com” target="_blank">Et voici une autre type de balise "inline"</a></p>
 <h1>h1 est une autre balise de type "block" </h1>
-<p>la malheureuse balise span est "obligee" de se placer en dessious</p>
+<p>la malheureuse balise span est "obligee" de se placer en dessous</p>
 </body>
 </html>
